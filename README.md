@@ -8,6 +8,6 @@ A terceira aula teve como foco apresentar a Comunicação entre Processos: TCP e
 
 
 ### Atividade Prática — Comunicação UDP
-Na Aula 2 construímos cliente TCP e servidor TCP. Hoje construiremos cliente UDP e servidor UDP.
+Na Aula 2 construímos cliente TCP e servidor TCP.
 
 E vamos perceber uma diferença importante: não utilizaremos listen(), accept(), connect() da mesma maneira que utilizamos no servidor TCP.
